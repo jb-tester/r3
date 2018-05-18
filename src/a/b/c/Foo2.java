@@ -9,4 +9,8 @@ package a.b.c;
 public class Foo2 {
     String s1;
     int a1;
+
+    public Foo2(int a1) {
+        this.a1 = a1;
+    }
 }
