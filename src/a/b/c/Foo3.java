@@ -7,6 +7,6 @@ package a.b.c;
  * *******************************
  */
 public class Foo3 {
-String s1;
+    String s1;
     int a1;
 }
