@@ -7,5 +7,5 @@ package a.b.c;
  * *******************************
  */
 public class Foo4 {
-
+    int a1;
 }
