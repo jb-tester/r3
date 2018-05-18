@@ -7,6 +7,10 @@ package a.b.c;
  * *******************************
  */
 public class Foo3 {
+    public Foo3(int a1) {
+        this.a1 = a1;
+    }
+
     String s1;
     int a1;
 }
